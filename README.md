@@ -2,6 +2,7 @@
 
 A project to build an AI voice assistant using Python . The Voice assistant interacts with the humans to perform basic tasks.
 
+[![Run on Repl.it](https://repl.it/badge/github/mmirthula02/AI-Personal-Voice-assistant-using-Python)](https://repl.it/github/mmirthula02/AI-Personal-Voice-assistant-using-Python)
 
 ### About G-One :
 
